@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jmh108-md-webcrawl-mcp-badge.png)](https://mseep.ai/app/jmh108-md-webcrawl-mcp)
+
 # MD MCP Webcrawler Project
 
 A Python-based MCP (https://modelcontextprotocol.io/introduction) web crawler for extracting and saving website content. 
